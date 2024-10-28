@@ -3,7 +3,7 @@ layout: project
 type: project
 image: ../img/PODS_DISCO/PODS_Square.jpeg
 title: "PODS and DISCO 2024"
-date: 2015
+date: 2024-10-24
 published: true
 labels:
   - Oceanography
