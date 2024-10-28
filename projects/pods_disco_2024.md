@@ -20,10 +20,5 @@ I left inspired by their groundbreaking research and even more excited to start 
 Kauai Now (news) article on the symposium: <a href="https://kauainownews.com/2024/10/22/worlds-next-generation-of-marine-scientists-present-cutting-edge-research-on-kauai/">here</a>
 
 
-
-<div class="text-center p-4">
-  <img width="200px" src="../img/PODS_DISCO/PODS_Full1.jpeg" class="img-thumbnail" >
-  <img width="200px" src="../img/PODS_DISCO/PODS_Full2.jpeg" class="img-thumbnail" >
-  <img width="200px" src="../img/PODS_DISCO/PODS_Full3.jpeg" class="img-thumbnail" >
-</div>
+  <img src="../img/PODS_DISCO/PODS_Full1.jpeg" class="img-thumbnail" >
 
