@@ -72,7 +72,7 @@
   "volunteer": [
     {
       "organization": "Hadal Water Column Profiler Testing Cruises",
-      "website": "http://manoa.hawaii.edu/reis",
+      "website": "",
       "position": "Student Volunteer",
       "startDate": "2023-10-20",
       "endDate": "Present",
@@ -95,16 +95,70 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "SOEST Dean’s Scholarship",
+      "date": "2024-Present",
+      "awarder": "School of Ocean and Earth Sciences",
+      "summary": ""
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Manoa Academic Merit",
+      "date": "2022-Present",
+      "awarder": "University of Hawaii at mānoa",
+      "summary": ""
+    },
+    {
+      "title": "Emerging Student Scholarship ",
+      "date": "2024",
+      "awarder": "Hawaii Concervation Conference",
+      "summary": ""
+    }, 
+    {
+      "title": "Dean's Honor Roll  ",
+      "date": "2022- Present",
+      "awarder": "University of Hawaii at mānoa",
+      "summary": ""
+    }, 
+     {
+      "title": "undergraduate project funding",
+      "date": "2023-24",
+      "awarder": "Undergraduate Research Oppertunities Program",
+      "summary": ""
+    }, 
+    {
+      "title": "Dr. Ruth Gates Fund",
+      "date": "2024",
+      "awarder": " Hawaii Institute of Marine Biology",
+      "summary": ""
+    }, 
+     {
+      "title": "Dr. Paul Bienfang Fund",
+      "date": "2022-2024",
+      "awarder": "Global Environmental Science",
+      "summary": ""
+    }, 
+    {
+      "title": "International Student Merit",
+      "date": "2022-2024",
+      "awarder": "International Student Services, UH Mānoa",
+      "summary": ""
+    }, 
+    {
+      "title": "Summer achievement",
+      "date": "2023",
+      "awarder": "University of Hawaii at mānoa",
+      "summary": ""
+    }, 
+     {
+      "title": "Special Project Funding",
+      "date": "2023",
+      "awarder": "Undergraduate Research Oppertunities Program",
+      "summary": ""
+    }, 
+    {
+      "title": "Kalaheo On-Ramp",
+      "date": "2022",
+      "awarder": "University of Hawaii at Mānoa",
+      "summary": ""
     }
   ],
   "references": [
