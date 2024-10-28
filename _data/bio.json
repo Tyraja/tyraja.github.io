@@ -6,93 +6,90 @@
     "email": "tyraja@hawaii.edu",
     "phone": "",
     "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "summary": "I am a student at the University of Hawai'i at Mānoa, Pursuing a B.S. in Global Enviornmental Science with Honors, in the department of Oceanography, and School of Ocean and Earth Sciences. My expected Graduation date is May 2025.",
+    "location": { "address": "", "postalCode": "96734", "city": "Kailua", "countryCode": "USA", "region": "Hawai'i" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "tyraja", "url": "http://github.com/tyraja" },
+      { "network": "linkedin", "username": "tyra-arends", "url": "http://linkedin.com/in/tyra-arends" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Climate Science" },
+    { "name": "Molecular Genetics" },
+    { "name": "Coral Reef Climate Adaptation" },
+    { "name": "Biological Oceanography" }, 
+    { "name": "Physical Oceanography" }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "name": "Molecular Genetics",
+      "keywords": [ "ezRAD", "2bRAD", "DNA Extraction", "PCR", "DNA UVR-DNA Assay" ]
     },
     {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "name": "Languages and Frameworks",
+      "keywords": [ "Python", "R", "Matlab", "Linux", "Git/GitHub" ]
+    },
+    {
+      "name": "Feildwork",
+      "keywords": [ "PADI Openwater diver", "CTD Opperator", "Freediver" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": " Global Envirnomental Science  (expected Spring, 2025)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2022-08-01",
       "endDate": "Present",
-      "courses": [
+      "courses": [ "Biogeochemical Systems", "Advanced Environmental Data Science", "Environmental Data Science", "Computer Programming", "Linear Algebra and Differential Equations", "Calculus 1, 2", "Environmental Impact Assessment", "1 year of Biology, Chemistry, and Physics with corresponding labs"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Hawaii Intitute of Marine Biology",
+      "position": "Molecular Genetics Research Assistant",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2021-08-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Pursuing a research project concerning the population genetics of a thermally resilient coral in Kaneohe Bay under Dr.Toonen. Experience with DNA extraction, PCR, DNA UVR Assays, RAD-seq library preparation (2BRAD, EzRAD, low-coverage whole genome sequencing), and bioinformatics (R, python). Collaborated on numerous research projects within the ToBo Lab, and the Smithsonian-Hagedon Lab concerning population genetics, field work, and quantifying coral growth rates. Performs regular maintenance on coral nursery and mesocosm environment on land, and in the ocean via freediving. Proficient in Metashape (Agisoft V.2) 3D modeling, digital data collection, and identification of Hawaiian marine invertebrates. "
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "University of Hawaii, Department of Oceanography",
+      "position": "Student Assistant",
+      "website": "",
+      "startDate": "2024-09-15",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Provide administrative support for the facilitation of DISCO (Dissertations Symposium in Chemical Oceanography) and PODS (Physical Oceanography Dissertation Symposium) meeting materials, including editing and compiling meeting-related documents. Assist with maintaining web pages and meeting-related databases. Conduct interviews to create outreach videos. "
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
+      "organization": "Hadal Water Column Profiler Testing Cruises",
       "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "position": "Student Volunteer",
+      "startDate": "2023-10-20",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Participated in 3 research cruises working with Dr. Carter.  Prepared, launched, and operated a CTD for nutrient and biological activity samples aboard the UH Kilo Moana.  Led a team of undergraduate students on night shift, while conducting and planning operations. Assisted  researchers to prepare,  launch, and recover the Hadal water column profiler. Assisted with plankton net tows,  filtration, and various biological and chemical  lab work. "
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
+      "organization": "Hawaii Ocean Time Series ",
+      "website": "https://hahana.soest.hawaii.edu/hot/",
+      "position": "Student Volunteer",
+      "startDate": "2023-8-7",
+      "endDate": "2023-8-12",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Aided in launching and collecting samples from a CTD for nutrient, salinity, and oxygen measurements aboard the UH Kilo Moana. Helped to conduct plankton net tows, filter chlorophyll, and perform titrations using a Winkler oxygen titrator. Performed routine meteorological observations, and salinity sample collections."
       ]
     }
   ],
