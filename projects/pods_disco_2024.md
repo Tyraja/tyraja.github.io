@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/PODS_DISCO/PODS_Square.jpeg
 title: "PODS and DISCO 2024"
 date: 2015
 published: true
@@ -22,8 +22,8 @@ Kauai Now (news) article on the symposium: <a href="https://kauainownews.com/202
 
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
+  <img width="200px" src="img/PODS_DISCO/PODS_Full1.jpeg" class="img-thumbnail" >
+  <img width="200px" src="img/PODS_DISCO/PODS_Full2.jpeg" class="img-thumbnail" >
+  <img width="200px" src="img/PODS_DISCO/PODS_Full3.jpeg" class="img-thumbnail" >
 </div>
 
