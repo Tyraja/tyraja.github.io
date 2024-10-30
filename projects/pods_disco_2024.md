@@ -6,8 +6,9 @@ title: "PODS and DISCO 2024"
 date: 2024-10-24
 published: true
 labels:
-  - Oceanography
-  - International
+  - Physcial Oceanography
+  - Chemical Ocenaography
+  - International Symposium
   - Networking
 summary: "Physical Oceanography Dissertation Symposium (PODS) and Dissertation Symposium in Chemical Oceanography (DiSCO)"
 ---
