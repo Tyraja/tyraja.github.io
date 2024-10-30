@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: ../img/Hadal/Hadal2.jpg
+image: ../img/Hadal/Hadal_Square.jpg
 title: "Hadal Profiler Test Cruises"
 date: 2024
 published: true
