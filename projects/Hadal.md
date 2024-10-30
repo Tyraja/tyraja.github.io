@@ -26,3 +26,5 @@ Voice of the Sea episode on the Hadal Water Column Profiler : <a href="https://w
 
 
   <img src="../img/Hadal/hadal3.jpeg" class="img-thumbnail" >
+  <img src="../img/Hadal/Hadal1.jpeg" class="img-thumbnail" >
+  <img src="../img/Hadal/Hadal4.jpeg" class="img-thumbnail" >
