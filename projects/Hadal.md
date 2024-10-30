@@ -25,4 +25,4 @@ Check out this Voice of the Sea episode, where I got the incredible opportunity 
 Voice of the Sea episode on the Hadal Water Column Profiler : <a href="https://www.youtube.com/watch?v=e50HsKAsWtI">here</a>
 
 
-  <img src="../img/Hadal/Hadal3.jpeg" class="img-thumbnail" >
+  <img src="../img/Hadal/hadal3.jpeg" class="img-thumbnail" >
