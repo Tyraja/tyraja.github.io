@@ -41,7 +41,7 @@ I am extremely grateful for the opportunity to learn from experienced researcher
       <img class="img-fluid" src="../img/HOT/HOT5.jpeg" alt="Image 5">
     </div>
     <div class="col-md-4">
-      <img class="img-fluid" src="../img/HOT/HOT6.jpeg" alt="Image 6">
+      <img class="img-fluid" src="../img/HOT/HOT7.jpeg" alt="Image 6">
     </div>
   </div>
 </div>
