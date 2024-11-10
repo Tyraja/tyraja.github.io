@@ -1,0 +1,58 @@
+/* Burgundy Orange Theme: modifies the default theme to inject a rusty sunset vibe. */
+
+/* Use Open Sans as the default font. */
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,700|Source+Code+Pro:300,400,500,700");
+
+/* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
+:root {
+  --tf-burgundy1: #8B3A3A; /* Deep burgundy */
+  --tf-burgundy2: #C45D3A; /* Rusty orange */
+  --tf-burgundy3: #D98C5C; /* Warm sunset orange */
+  --tf-burgundy4: #F4E3D7; /* Soft, faint sunset background */
+  --bs-font-sans-serif: "Open Sans", sans-serif;
+  --bs-link-color: var(--tf-burgundy1);
+  --tf-pill-bg: var(--tf-burgundy3);
+  --tf-icon-fill: var(--tf-burgundy1);
+  --tf-icon-hover: var(--tf-burgundy2);
+  --tf-page-bg-color: var(--bs-white);
+  --tf-footer-bg-color: var(--tf-burgundy4);
+  --tf-projects-bg-color: var(--tf-burgundy4);
+}
+
+h1, h2, h3, h4, h5 {
+  color: var(--tf-burgundy1);
+}
+
+/* Format social media icons */
+.tf-social {
+  display: inline-block;
+  fill: var(--tf-burgundy1);
+  height: 1.5em;
+  vertical-align: -.1em;
+  width: 1.5em;
+  transition: 0.2s;
+}
+
+.tf-social:hover {
+  fill: var(--tf-icon-hover);
+}
+
+a {
+  text-decoration: none;
+}
+
+@media (max-width: 500px) {
+  .navbar-brand {
+    display: none;
+  }
+
+  .navbar-brand-mobile {
+    display: inline;
+  }
+}
+
+/* Simplify the styling of the bottom of Essay cards. */
+.card-footer {
+  background-color: var(--bs-white);
+  border-top: none;
+}
