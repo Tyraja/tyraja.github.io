@@ -22,16 +22,19 @@ Sharing my research and restoration recommendations with professionals at the fo
 Mahalo Nui Loa!
 
 <div class="container">
-  <div class="row">
-    <div class="col-md-4">
-      <img class="img-fluid" src="../img/ReefFutures/0c270b2a-0b90-48f5-86d4-1836dfd26328.JPG" alt="Image 1">
+  <div class="row mb-4">
+    <div class="col">
+      <img class="img-fluid w-75 mx-auto d-block" src="../img/ReefFutures/0c270b2a-0b90-48f5-86d4-1836dfd26328.JPG" alt="Image 1">
     </div>
-    <div class="col-md-4">
-      <video class="img-fluid" controls>
+  </div>
+  <div class="row">
+    <div class="col">
+      <video class="img-fluid w-50 mx-auto d-block" controls>
         <source src="../img/ReefFutures/IMG_8635.MOV" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </div>
   </div>
 </div>
+
 
