@@ -24,19 +24,11 @@ Mahalo Nui Loa!
       <img class="img-fluid" src="../img/ReefFutures/0c270b2a-0b90-48f5-86d4-1836dfd26328.JPG" alt="Image 1">
     </div>
     <div class="col-md-4">
-      <img class="img-fluid" src="../img/HOT/HOT2.jpeg" alt="Image 2">
-    </div>
-    <div class="col-md-4">
-      <img class="img-fluid" src="../img/HOT/HOT3.jpeg" alt="Image 3">
-    </div>
-    <div class="col-md-4">
-      <img class="img-fluid" src="../img/HOT/HOT4.jpeg" alt="Image 4">
-    </div>
-    <div class="col-md-4">
-      <img class="img-fluid" src="../img/HOT/HOT5.jpeg" alt="Image 5">
-    </div>
-    <div class="col-md-4">
-      <img class="img-fluid" src="../img/HOT/HOT7.jpeg" alt="Image 6">
+      <video class="img-fluid" controls>
+        <source src="../img/ReefFutures/IMG_8635.MOV" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
     </div>
   </div>
 </div>
+
