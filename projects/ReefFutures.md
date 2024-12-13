@@ -21,7 +21,7 @@ Mahalo Nui Loa!
 <div class="container">
   <div class="row">
     <div class="col-md-4">
-      <img class="img-fluid" src="../img/HOT/HOT1.jpeg" alt="Image 1">
+      <img class="img-fluid" src="../img/ReefFutures/0c270b2a-0b90-48f5-86d4-1836dfd26328.JPG" alt="Image 1">
     </div>
     <div class="col-md-4">
       <img class="img-fluid" src="../img/HOT/HOT2.jpeg" alt="Image 2">
