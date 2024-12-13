@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: ../img/ReefFutures/Square.jpeg
+image: ../img/ReefFutures/IMG_9339.JPEG
 title: "Reef Futures 2024"
 date: 2024-12-12
 published: true
