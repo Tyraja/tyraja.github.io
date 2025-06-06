@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: ..img/workshops/NOAA.square.jpg
+image: ../img/workshops/NOAA.square.jpg
 title: "Developing a Competitive Grant Proposal"
 date: 2025-04-28
 published: true
@@ -29,4 +29,4 @@ I developed a strong understanding of the **grant writing process** and **effect
 and many more cool tips like this! 
 ---
 
-<img src="..img/workshops/NOAA.square.jpg" class="img-thumbnail" alt="NOAA Training Image">
+<img src="../img/workshops/NOAA.square.jpg" class="img-thumbnail" alt="NOAA Training Image">
