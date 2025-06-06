@@ -4,7 +4,7 @@ type: project
 image: ../img/Tester/Testers_Square.jpeg
 title: "48th Annual Albert L. Tester Memorial Symposium"
 date: 2024-04-16
-published: true
+published: false
 labels:
   - University of Hawaii at Manoa
   - Population Genetics
