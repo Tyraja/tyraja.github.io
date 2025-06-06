@@ -29,4 +29,4 @@ I developed a strong understanding of the **grant writing process** and **effect
 and many more cool tips like this! 
 ---
 
-<img src="../img/Hadal/NOAA.jpeg" class="img-thumbnail" alt="NOAA Training Image">
+<img src="../img/workshops/NOAA.jpeg" class="img-thumbnail" alt="NOAA Training Image">
