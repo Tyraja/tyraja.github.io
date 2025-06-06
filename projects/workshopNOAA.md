@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: ../img/workshopNOAA/NOAA.square.jpeg
+image: ..img/workshops/NOAA.square.jpg
 title: "Developing a Competitive Grant Proposal"
 date: 2025-04-28
 published: true
